@@ -1,0 +1,24 @@
+site_name: Garden Jottings
+
+nav:
+  - 首页: index.md
+  - 鲜花插花:
+    - 玫瑰: 鲜花插花/玫瑰.md
+    - 百合: 鲜花插花/百合.md
+  - About: about.md
+
+repo_url: https://github.com/tanganke/GardenJottings
+
+theme:
+  name: material
+  language: zh
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.expand
+    - content.action.edit
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
