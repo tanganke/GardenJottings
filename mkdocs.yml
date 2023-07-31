@@ -3,8 +3,11 @@ site_name: Garden Jottings
 nav:
   - 首页: index.md
   - 鲜花插花:
+    - 鲜花插花/index.md
     - 玫瑰: 鲜花插花/玫瑰.md
     - 百合: 鲜花插花/百合.md
+  - 土培盆栽:
+    - 土培盆栽/index.md
   - About: about.md
 
 repo_url: https://github.com/tanganke/GardenJottings
